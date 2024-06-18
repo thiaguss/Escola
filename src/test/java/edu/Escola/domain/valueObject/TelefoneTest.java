@@ -1,4 +1,4 @@
-package edu.Escola;
+package edu.Escola.domain.valueObject;
 
 import org.junit.jupiter.api.Test;
 
