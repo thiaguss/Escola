@@ -1,4 +1,4 @@
-package edu.Escola.domain.valueObject;
+package edu.Escola.core.domain.valueObject;
 
 public class Email {
 

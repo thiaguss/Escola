@@ -1,4 +1,4 @@
-package edu.Escola.domain;
+package edu.Escola.core.domain.entities;
 
 import java.time.LocalDateTime;
 

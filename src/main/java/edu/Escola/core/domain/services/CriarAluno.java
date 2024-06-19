@@ -1,7 +1,8 @@
-package edu.Escola.domain;
+package edu.Escola.core.domain.services;
 
-import edu.Escola.domain.valueObject.Cpf;
-import edu.Escola.domain.valueObject.Email;
+import edu.Escola.core.domain.entities.Aluno;
+import edu.Escola.core.domain.valueObject.Cpf;
+import edu.Escola.core.domain.valueObject.Email;
 
 public class CriarAluno {
 

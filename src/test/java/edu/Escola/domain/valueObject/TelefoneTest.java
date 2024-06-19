@@ -1,5 +1,6 @@
 package edu.Escola.domain.valueObject;
 
+import edu.Escola.core.domain.valueObject.Telefone;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

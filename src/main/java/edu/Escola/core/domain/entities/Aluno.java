@@ -1,8 +1,8 @@
-package edu.Escola.domain;
+package edu.Escola.core.domain.entities;
 
-import edu.Escola.domain.valueObject.Cpf;
-import edu.Escola.domain.valueObject.Email;
-import edu.Escola.domain.valueObject.Telefone;
+import edu.Escola.core.domain.valueObject.Cpf;
+import edu.Escola.core.domain.valueObject.Email;
+import edu.Escola.core.domain.valueObject.Telefone;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,16 +20,16 @@ public class Aluno {
         this.email = email;
     }
 
-    public Cpf getCpf() {
-        return cpf;
+    public String getCpf() {
+        return cpf.getNumero();
     }
 
     public String getNome() {
         return nome;
     }
 
-    public Email getEmail() {
-        return email;
+    public String getEmail() {
+        return email.getEndereco();
     }
 
     public List<Telefone> getTelefones() {
