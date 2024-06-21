@@ -1,4 +1,4 @@
-package edu.Escola.infrastructure.repository.jdbc;
+package edu.Escola.infrastructure.database.jdbc;
 
 import edu.Escola.core.domain.interfaces.AlunoRepository;
 import edu.Escola.core.domain.entities.Aluno;
