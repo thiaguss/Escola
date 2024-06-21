@@ -1,6 +1,6 @@
 package edu.Escola.infrastructure.repository.jdbc;
 
-import edu.Escola.core.application.interfaces.AlunoRepository;
+import edu.Escola.core.domain.interfaces.AlunoRepository;
 import edu.Escola.core.domain.entities.Aluno;
 import edu.Escola.core.domain.valueObject.Cpf;
 import edu.Escola.core.domain.valueObject.Email;

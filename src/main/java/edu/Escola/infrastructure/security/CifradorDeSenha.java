@@ -1,6 +1,6 @@
 package edu.Escola.infrastructure.security;
 
-import edu.Escola.core.application.interfaces.SegurancaSenha;
+import edu.Escola.core.domain.interfaces.SegurancaSenha;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

@@ -1,4 +1,4 @@
-package edu.Escola.core.application.interfaces;
+package edu.Escola.core.domain.interfaces;
 
 import edu.Escola.core.domain.entities.Aluno;
 import edu.Escola.core.domain.valueObject.Cpf;

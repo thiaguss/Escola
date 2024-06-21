@@ -1,4 +1,4 @@
-package edu.Escola.core.application.interfaces;
+package edu.Escola.core.domain.interfaces;
 
 public interface SegurancaSenha {
     String cifrarSenha(String senha);
